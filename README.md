@@ -3,6 +3,8 @@
 A [Warp](https://warp.dev) terminal theme matching IntelliJ IDEA's Monokai
 colour scheme — neutral dark-grey background with classic Monokai syntax accents.
 
+![Monokai (IntelliJ) theme preview](assets/preview.png)
+
 ## Palette
 
 | Role | Colour |

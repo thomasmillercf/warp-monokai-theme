@@ -1,0 +1,27 @@
+# Monokai (IntelliJ) — sampled from Thomas's IntelliJ screenshots.
+# Neutral dark-grey background (#1E1F22), Monokai syntax accents.
+name: Monokai (IntelliJ)
+accent: '#3574F0'        # IntelliJ UI accent blue (cursor, selection, active tab)
+background: '#1E1F22'    # IntelliJ New Dark background
+foreground: '#BCBEC4'    # default editor text
+details: darker
+
+terminal_colors:
+  normal:
+    black: '#1E1F22'
+    red: '#F92672'       # keyword pink
+    green: '#A7EC21'     # lime green
+    yellow: '#E6DB74'    # string yellow
+    blue: '#66D9EF'      # type cyan-blue
+    magenta: '#E376FF'   # identifier purple
+    cyan: '#66D9EF'
+    white: '#BCBEC4'
+  bright:
+    black: '#908C72'     # comment grey
+    red: '#FD971F'       # orange
+    green: '#A7EC21'
+    yellow: '#FFF463'    # bright yellow
+    blue: '#3574F0'      # accent blue
+    magenta: '#E376FF'
+    cyan: '#65D8E7'
+    white: '#F8F8F2'

@@ -1,7 +1,9 @@
 # Warp Monokai (IntelliJ) Theme
 
-A [Warp](https://warp.dev) terminal theme matching IntelliJ IDEA's Monokai
-colour scheme — neutral dark-grey background with classic Monokai syntax accents.
+A [Warp](https://warp.dev) terminal theme that blends **Monokai** and
+**IntelliJ Dark** — classic Monokai syntax accents (pink keywords, purple
+identifiers, cyan types, yellow strings) sitting on IntelliJ Dark's neutral
+grey background (`#1E1F22`) with its blue UI accent (`#3574F0`).
 
 ![Monokai (IntelliJ) theme preview](assets/preview.png)
 

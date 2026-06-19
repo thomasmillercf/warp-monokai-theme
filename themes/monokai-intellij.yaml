@@ -1,4 +1,4 @@
-# Monokai (IntelliJ) — sampled from Thomas's IntelliJ screenshots.
+# A blend of Monokai and IntelliJ Dark — sampled from IntelliJ screenshots.
 # Neutral dark-grey background (#1E1F22), Monokai syntax accents.
 name: Monokai (IntelliJ)
 accent: '#3574F0'        # IntelliJ UI accent blue (cursor, selection, active tab)
